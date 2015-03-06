@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/themes
+/themes/*
+!/themes/twentytwelve
+!/themes/papapunk_twentytwelve_child
+!/plugins
+/plugins/*
+!/plugins/papapunkmagic
