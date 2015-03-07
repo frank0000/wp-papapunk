@@ -5,8 +5,9 @@
 /themes/*
 !themes/index.php
 !/themes/twentytwelve
-!/themes/papapunk_twentytwelve_child
+!/themes/papapunk-twentytwelve
 !/plugins
 /plugins/*
 !/plugins/index.php
-!/plugins/papapunkmagic
+!/plugins/papapunk-sauce
+
